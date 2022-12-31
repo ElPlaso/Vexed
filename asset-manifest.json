@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Vexed/static/css/main.bbeaf9ff.css",
-    "main.js": "/Vexed/static/js/main.251ce424.js",
+    "main.js": "/Vexed/static/js/main.afda07f0.js",
     "static/js/787.9b9aa197.chunk.js": "/Vexed/static/js/787.9b9aa197.chunk.js",
     "static/media/bootstrap-icons.woff?": "/Vexed/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
     "static/media/bootstrap-icons.woff2?": "/Vexed/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
@@ -9,11 +9,11 @@
     "static/media/flaghead.png": "/Vexed/static/media/flaghead.cc5ca3625ed397c48535.png",
     "index.html": "/Vexed/index.html",
     "main.bbeaf9ff.css.map": "/Vexed/static/css/main.bbeaf9ff.css.map",
-    "main.251ce424.js.map": "/Vexed/static/js/main.251ce424.js.map",
+    "main.afda07f0.js.map": "/Vexed/static/js/main.afda07f0.js.map",
     "787.9b9aa197.chunk.js.map": "/Vexed/static/js/787.9b9aa197.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bbeaf9ff.css",
-    "static/js/main.251ce424.js"
+    "static/js/main.afda07f0.js"
   ]
 }
