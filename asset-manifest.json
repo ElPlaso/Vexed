@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Vexed/static/css/main.bbeaf9ff.css",
-    "main.js": "/Vexed/static/js/main.ea3e6bc5.js",
+    "main.css": "/Vexed/static/css/main.b0c87b80.css",
+    "main.js": "/Vexed/static/js/main.a8b54a89.js",
     "static/js/787.9b9aa197.chunk.js": "/Vexed/static/js/787.9b9aa197.chunk.js",
     "static/media/bootstrap-icons.woff?": "/Vexed/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
     "static/media/bootstrap-icons.woff2?": "/Vexed/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
-    "static/media/flag.png": "/Vexed/static/media/flag.75dace805da5ac3ac828.png",
+    "static/media/finish-flag.png": "/Vexed/static/media/finish-flag.b7506f57591c49c27b61.png",
     "static/media/flaghead.png": "/Vexed/static/media/flaghead.cc5ca3625ed397c48535.png",
     "index.html": "/Vexed/index.html",
-    "main.bbeaf9ff.css.map": "/Vexed/static/css/main.bbeaf9ff.css.map",
-    "main.ea3e6bc5.js.map": "/Vexed/static/js/main.ea3e6bc5.js.map",
+    "main.b0c87b80.css.map": "/Vexed/static/css/main.b0c87b80.css.map",
+    "main.a8b54a89.js.map": "/Vexed/static/js/main.a8b54a89.js.map",
     "787.9b9aa197.chunk.js.map": "/Vexed/static/js/787.9b9aa197.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbeaf9ff.css",
-    "static/js/main.ea3e6bc5.js"
+    "static/css/main.b0c87b80.css",
+    "static/js/main.a8b54a89.js"
   ]
 }
